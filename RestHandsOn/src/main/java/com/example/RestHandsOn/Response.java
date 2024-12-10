@@ -13,6 +13,6 @@ public class Response {
 
     public Response(String message) {
         this.message = message;
-        this.time = new Date().toString();
+        this.time = new Date().toString(); 
     }
 }
