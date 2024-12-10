@@ -8,6 +8,7 @@ public class RestHandsOnApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestHandsOnApplication.class, args);
+		System.out.println("Hello");
 	}
 
 }
